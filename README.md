@@ -1,0 +1,4 @@
+WebSymbolParser
+===============
+
+For personal use
